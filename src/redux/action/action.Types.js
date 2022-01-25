@@ -1,0 +1,1 @@
+export const MOVE_TO_NEXT_STEP = "MOVE_TO_NEXT_STEP";
